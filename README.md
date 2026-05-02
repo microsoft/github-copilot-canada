@@ -1,3 +1,7 @@
+<div align="center">
+<img width="474" height="138" alt="ms+gh" src="https://github.com/user-attachments/assets/fcd7622d-50bd-4080-8361-27add0d3e650" />
+
+
 # 🇨🇦 GitHub Copilot Canada
 
 A curated public hub of GitHub Copilot resources for Canadian customers,
@@ -9,6 +13,7 @@ enablement, governance guidance, and account-specific resources. Everything
 here is publicly accessible — no login required.
 
 ---
+<img width="1400" height="350" alt="ghcp_li_banner" src="https://github.com/user-attachments/assets/0b6111a5-cc00-4680-af45-1427869f7db0" />
 
 ## Who this is for
 
@@ -16,6 +21,9 @@ here is publicly accessible — no login required.
 |---|---|---|
 | Find Canadian events, customer stories, and the fastest path to value with Copilot. Start with [Canada Events](#-canada-events) and [Learning & Skilling](#-learning--skilling). | Hands-on tutorials, labs, and the latest changelog so you can build with Copilot today. Start with [Learning & Skilling](#-learning--skilling) and [Developer Enablement](#-developer-enablement). | Architecture, governance, and adoption guidance for IT, security, and procurement leaders. Start with [Governance & Architecture](#-governance--architecture). |
 
+
+
+</div>
 ---
 
 ## 📅 Canada Events
@@ -26,7 +34,7 @@ Live and upcoming events run by — or featuring — the GitHub Copilot Canada t
   developer event series. [aka.ms/ghcp-dev-days-canada](https://aka.ms/ghcp-dev-days-canada)
 - **Development Enablement Series — AI Coding with GitHub Copilot** — A
   multi-part enablement series for engineering teams adopting Copilot in
-  Canada. *Registration link will be added here once published.*
+  Canada. [Development Enablement Series - AI Coding with GitHub Copilot](https://proud-pebble-09ba52a0f.6.azurestaticapps.net/)
 
 ---
 

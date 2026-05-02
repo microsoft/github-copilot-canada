@@ -1,7 +1,7 @@
 # Contributing
 
 Thanks for helping make this hub better! This repository is a curated collection
-of GitHub Copilot resources for our Canadian customer, developer, and
+of GitHub Copilot resources for our Canadian customers, developer, and
 decision-maker community. Contributions of new resources, fixes to broken links,
 and improvements to descriptions are all welcome.
 

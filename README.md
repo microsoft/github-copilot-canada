@@ -1,12 +1,12 @@
 <div align="center">
-<img width="474" height="138" alt="ms+gh" src="https://github.com/user-attachments/assets/fcd7622d-50bd-4080-8361-27add0d3e650" /> <img width="1400" height="350" alt="ghcp_li_banner" src="https://github.com/user-attachments/assets/0b6111a5-cc00-4680-af45-1427869f7db0" />
-</div>
+<img width="474" height="138" alt="ms+gh" src="https://github.com/user-attachments/assets/fcd7622d-50bd-4080-8361-27add0d3e650" />
 
 # 🇨🇦 GitHub Copilot Canada
 
 > A curated public hub of GitHub Copilot resources for Canadian customers, developers, and decision-makers — maintained by the **GitHub Copilot Canada team at Microsoft**.
 
 ---
+<img width="1400" height="350" alt="ghcp_li_banner" src="https://github.com/user-attachments/assets/0b6111a5-cc00-4680-af45-1427869f7db0" />
 
 ## Who this is for
 
@@ -14,6 +14,9 @@
 |---|---|---|
 | Events & customer stories → [Canada Events](#-canada-events) | Tutorials, labs & changelog → [Learning & Skilling](#-learning--skilling) | Architecture & governance → [Governance & Architecture](#-governance--architecture) |
 
+
+
+</div>
 ---
 
 ## 📅 Canada Events

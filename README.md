@@ -19,7 +19,7 @@
 ## 📅 Canada Events
 
 - **GHCP Dev Days Canada 🇨🇦** — Microsoft and GitHub's Canada-focused Copilot developer event series. [aka.ms/ghcp-dev-days-canada](https://aka.ms/ghcp-dev-days-canada)
-- **[AI Coding with GitHub Copilot — Development Enablement Series](https://proud-pebble-09ba52a0f.6.azurestaticapps.net/)** — Multi-part series for Canadian engineering teams covering prompt patterns, chat modes, agentic workflows, code review, and team-scale adoption.
+- **[AI Coding with GitHub Copilot — Development Enablement Series](https://aka.ms/ghcp-dev-enablement-series)** — Multi-part series for Canadian engineering teams covering prompt patterns, chat modes, agentic workflows, code review, and team-scale adoption.
 - **Apply for workshops, office hours & invite-only events** — Get on the GHCP Canada team's invite list. [aka.ms/ghcp-canada-events-form](https://aka.ms/ghcp-canada-events-form)
 
 

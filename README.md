@@ -53,6 +53,7 @@
 
 Resources about Copilot's move to usage-based billing.
 
+- **🇨🇦 Canada team recommendations** — A practical playbook for preparing your organization (what's changing June 1, a 5-step rollout plan, what not to overreact to, and resources to share with customers). [usage-based-billing/](./usage-based-billing/)
 - **Announcement (blog)** — GitHub Copilot is moving to usage-based billing. [github.blog](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
 - **Copilot Billing Preview Sidecar app (video)** — Walkthrough of the in-product billing preview. *Requires Microsoft 365 sign-in.* [SharePoint](https://microsoft.sharepoint.com/:v:/t/GithubSales/cQpdyZPg51mUQ7iLkqEsrO7pEgUCj1S9x-0AVt-DMqzr4c7NFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=)
 - **UBB documentation** — Concept docs for usage-based billing in organizations and enterprises. [docs.github.com](https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises)

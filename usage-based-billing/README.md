@@ -116,11 +116,21 @@ resources with your customer when preparing them for UBB:
 
 ### Webinars and workshops
 
-- **Upcoming webinars** — Live customer-facing sessions on UBB.
-  <!-- TODO: add registration URL -->
-- **UBB Budgeting & Optimization workshops** — Register your customer for
-  hands-on workshops covering budgets, limits, and Auto Mode.
-  <!-- TODO: add registration URL -->
+#### Upcoming customer webinars
+
+Live sessions for customers preparing for UBB. Register via the links below.
+
+**Americas**
+- **GitHub Billing Platform Controls (run by XEBIA)** — May 28, 9:00 AM PT. [Register](https://events.xebia.com/microsoft/webinar-github-copilot-is-changing-may28)
+
+**APAC**
+- **Agent Quality & Token Optimization** — June 2, 4:00 PM – 5:00 PM KST. [Register](https://github.registration.goldcast.io/webinar/0b606bf5-7259-47c1-a13e-f6ae55e9bdb3)
+- **Agent Quality & Token Optimization** — June 5, 2:00 PM – 3:00 PM AEST / 12:00 PM SGT / 9:30 AM IST. [Register](https://github.registration.goldcast.io/webinar/0cc0d88d-52ea-4837-9fce-1da721aea31b)
+- **Agent Quality & Token Optimization** — June 16, 4:00 PM – 5:00 PM JST. [Register](https://github.registration.goldcast.io/webinar/04d8b78c-7149-48df-91a1-68029e126c4a)
+
+#### UBB Budgeting & Optimization workshops
+
+- **Register your customer for a workshop** — Microsoft-funded, no-cost workshops covering budgets, limits, and Auto Mode. Delivered by the Global CSU team and scaled via CSAs and Software SEs. [Registration form](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR84zo1Kq4Z9AtfyHTyyIJfdUMVBCT0VERlQ4OEpINTlCSUZYSFJGMDhTUS4u&route=shorturl)
 
 ---
 

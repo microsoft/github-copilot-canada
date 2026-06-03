@@ -97,13 +97,14 @@ selection.
 
 ---
 
-## 📦 Resources to Share with Customers
+## 📦 Usage-Based Billing Resources
 
-The **customer billing usage report is live as of May 12**. Share these
-resources with your customer when preparing them for UBB:
+The **customer billing usage report is live as of May 12**. The links
+below collect the most useful UBB references for admins and partners
+preparing their rollout:
 
 - **April reports are now available (changelog, May 12)** — Announces the
-  customer-facing billing usage report. Share with customers preparing for UBB.
+  customer-facing billing usage report.
   [github.blog/changelog](https://github.blog/changelog/2026-05-12-april-reports-are-now-available-to-prepare-for-usage-based-billing/)
 - **Preparing your organization for usage-based billing (docs)** — Step-by-step
   guidance for organization and enterprise admins.
@@ -113,6 +114,24 @@ resources with your customer when preparing them for UBB:
   [github.com/orgs/community/discussions/192948](https://github.com/orgs/community/discussions/192948)
 - **Webinar recap (on-demand video)** — Recap of the UBB customer briefing.
   [github.ondemand.goldcast.io](https://github.ondemand.goldcast.io/on-demand/9c23608e-dc81-41f3-82c2-6629c9a26f36)
+
+### Interactive tools & checklists
+
+> Community / partner-built tools — these are not official GitHub
+> documentation, but several teams have found them useful when explaining
+> UBB to admins and developers.
+
+- **UBB Resources (interactive tools)** — Animated explainer, 21 budget
+  flow scenarios, decision tree, budget calculator, and model-selection
+  playbook.
+  [white-cliff-095e8700f.7.azurestaticapps.net](https://white-cliff-095e8700f.7.azurestaticapps.net/index.html)
+- **Token-optimizer (interactive showcase)** — Scenarios, framework
+  diagram, pricing calculator, and model-selection playbook for token
+  optimization across AI coding workloads.
+  [ashy-dune-0b4215a0f.7.azurestaticapps.net](https://ashy-dune-0b4215a0f.7.azurestaticapps.net/detailed/index.html#/home)
+- **UBB Checklist (by Tim Corr)** — Step-by-step rollout checklist
+  grouped by timing and role, with local progress tracking.
+  [tjcorr.github.io/ubb-checklist](https://tjcorr.github.io/ubb-checklist/checklist.html)
 
 ### Webinars and workshops
 

@@ -18,10 +18,8 @@ Pick the README section you think fits best (or suggest a new one):
 
 - [ ] Canada Events
 - [ ] Learning & Skilling
-- [ ] Developer Enablement
-- [ ] What's New
+- [ ] Usage-Based Billing
 - [ ] Governance & Architecture
-- [ ] CSI Resources
 - [ ] Other / new section — please describe:
 
 ## Audience

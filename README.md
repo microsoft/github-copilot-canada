@@ -1,5 +1,6 @@
 <div align="center">
 <img width="474" height="138" alt="ms+gh" src="https://github.com/user-attachments/assets/fcd7622d-50bd-4080-8361-27add0d3e650" />
+</div>
 
 # 🇨🇦 GitHub Copilot Canada
 
@@ -14,9 +15,6 @@
 |---|---|---|
 | Events & customer stories → [Canada Events](#-canada-events) | Tutorials, labs & changelog → [Learning & Skilling](#-learning--skilling) | Architecture & governance → [Governance & Architecture](#-governance--architecture) |
 
-
-
-</div>
 ---
 
 ## 📅 Canada Events

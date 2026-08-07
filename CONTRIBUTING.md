@@ -1,7 +1,7 @@
 # Contributing
 
 Thanks for helping make this hub better! This repository is a curated collection
-of GitHub Copilot resources for our Canadian customers, developer, and
+of GitHub and GitHub Copilot resources for our Canadian customers, developer, and
 decision-maker community. Contributions of new resources, fixes to broken links,
 and improvements to descriptions are all welcome.
 
@@ -30,11 +30,11 @@ Typo, unclear description, or out-of-date information? PRs are welcome.
 4. Use the established formatting:
    `**Resource name** — one-line description. [Link](https://example.com)`
 5. Commit and push your branch, then open a PR against `main`.
-6. A maintainer from the GitHub Copilot Canada team will review.
+6. A maintainer from the GitHub @ Canada team will review.
 
 ## What belongs here
 
-✅ Public, freely accessible GitHub Copilot resources relevant to Canadian
+✅ Public, freely accessible GitHub and GitHub Copilot resources relevant to Canadian
 customers, developers, and decision-makers (events, learning, governance,
 documentation, customer stories).
 
@@ -46,7 +46,8 @@ documentation, customer stories).
 SharePoint, etc.). That content lives on the internal SharePoint companion
 to this hub.
 
-❌ Resources unrelated to GitHub Copilot or to enterprise adoption thereof.
+❌ Resources unrelated to GitHub, GitHub Copilot, or to enterprise adoption
+thereof.
 
 ## Preview the GitHub Pages site
 

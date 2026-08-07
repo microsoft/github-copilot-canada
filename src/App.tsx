@@ -28,7 +28,7 @@ import type {PageId, TableOfContentsItem} from './content'
 type ColorMode = 'auto' | 'day' | 'night'
 type MarkdownExtraProps = {node?: unknown}
 
-const repositoryUrl = 'https://github.com/microsoft/github-copilot-canada'
+const repositoryUrl = 'https://github.com/microsoft/github-canada'
 const requestedPageId = document.body.dataset.page
 const pageId: PageId = isPageId(requestedPageId) ? requestedPageId : 'home'
 const siteRoot = document.body.dataset.siteRoot ?? './'
@@ -229,13 +229,13 @@ function SiteNavigation({currentPage}: {currentPage: PageId}) {
       </a>
       <a
         className="nav-item nav-item-compact"
-        href="https://docs.github.com/en/copilot"
+        href="https://docs.github.com/"
         target="_blank"
         rel="noreferrer"
       >
         <BookIcon size={18} aria-hidden="true" />
         <span>
-          <strong>Copilot Docs</strong>
+          <strong>GitHub Docs</strong>
         </span>
         <LinkExternalIcon className="nav-external" size={14} aria-hidden="true" />
       </a>

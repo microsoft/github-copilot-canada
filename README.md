@@ -2,9 +2,9 @@
 <img width="474" height="138" alt="ms+gh" src="https://github.com/user-attachments/assets/fcd7622d-50bd-4080-8361-27add0d3e650" />
 </div>
 
-# 🇨🇦 GitHub Copilot Canada
+# 🇨🇦 GitHub @ Canada
 
-> A curated public hub of GitHub Copilot resources for Canadian customers, developers, and decision-makers — maintained by the **GitHub Copilot Canada team at Microsoft**.
+> A curated public hub of GitHub and GitHub Copilot resources for Canadian customers, developers, and decision-makers — maintained by the **GitHub @ Canada team at Microsoft**.
 
 ---
 <img width="1400" height="350" alt="ghcp_li_banner" src="https://github.com/user-attachments/assets/0b6111a5-cc00-4680-af45-1427869f7db0" />
@@ -81,7 +81,7 @@ The **Fantastic 4** are Microsoft's GitHub Acceleration team:
 
 - **Email us** — [GitHubCopilotCanada@microsoft.com](mailto:GitHubCopilotCanada@microsoft.com)
 - **Open an issue** to suggest a resource, report a broken link, or request a topic — see [issue templates](.github/ISSUE_TEMPLATE) and [CONTRIBUTING.md](CONTRIBUTING.md).
-- **Through your Microsoft account team** — they can route you to the GitHub Copilot Canada team directly.
+- **Through your Microsoft account team** — they can route you to the GitHub @ Canada team directly.
 
 ---
 

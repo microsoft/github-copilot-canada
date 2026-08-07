@@ -39,7 +39,7 @@ This is a static, README-driven React site deployed to GitHub Pages.
   HTML entry.
 - `vite.config.ts` declares every HTML entry under
   `build.rollupOptions.input`. `base: './'` is required so assets resolve
-  under the `/github-copilot-canada/` GitHub Pages project path.
+  under the `/github-canada/` GitHub Pages project path.
 - `src/App.tsx` is the shared Primer shell. It owns navigation, theme
   persistence, Markdown rendering, link/image normalization, heading anchors,
   tables of contents, and deep-link scrolling.

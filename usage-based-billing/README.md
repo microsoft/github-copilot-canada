@@ -2,7 +2,7 @@
 
 > A practical playbook for Canadian customers preparing for GitHub Copilot's
 > move to usage-based billing on **June 1**. Maintained by the
-> **GitHub Copilot Canada team at Microsoft**.
+> **GitHub @ Canada team at Microsoft**.
 
 > **Recommended first resource: Copilot Cost Compass** — Start here to
 > understand the usage-based billing journey and explore the recommended next
@@ -158,7 +158,7 @@ recordings or follow-up resources.
 ## 💬 Get in Touch
 
 Questions, customer scenarios, or workshop nominations? Reach the
-GitHub Copilot Canada team at
+GitHub @ Canada team at
 [GitHubCopilotCanada@microsoft.com](mailto:GitHubCopilotCanada@microsoft.com),
 or open an issue using the templates in
 [.github/ISSUE_TEMPLATE](../.github/ISSUE_TEMPLATE).

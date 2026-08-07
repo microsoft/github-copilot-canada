@@ -1,6 +1,6 @@
 ---
 name: 🔗 Suggest a resource
-about: Suggest a new GitHub Copilot resource to add to the hub
+about: Suggest a new GitHub or GitHub Copilot resource to add to the hub
 title: "[Suggest] <resource name>"
 labels: ["suggestion", "needs-triage"]
 assignees: []
@@ -36,7 +36,7 @@ Who is this resource most useful for? *(check all that apply)*
 ## Why does it belong in this hub?
 
 <!-- A sentence or two on why this is a high-signal addition for the Canadian
-GitHub Copilot community. -->
+GitHub community. -->
 
 ## Access / availability
 

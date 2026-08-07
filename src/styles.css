@@ -366,10 +366,12 @@ a {
   background: var(--bgColor-muted);
 }
 
+.page-dev-days .readme-content table th,
 .page-dev-enablement-series .readme-content table th {
   background: var(--bgColor-muted);
 }
 
+.page-dev-days .readme-content table td:first-child,
 .page-dev-enablement-series .readme-content table td:first-child {
   width: 22%;
   white-space: nowrap;
@@ -595,6 +597,7 @@ a {
     overflow-x: auto;
   }
 
+  .page-dev-days .readme-content table td:first-child,
   .page-dev-enablement-series .readme-content table td:first-child {
     width: auto;
   }

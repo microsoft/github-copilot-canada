@@ -29,18 +29,14 @@
 
 ## 📚 Learning & Skilling
 
+- **GitHub Changelog** — See how much and how fast we're shipping at GitHub,
+  including the latest Copilot improvements.
+  [Follow the GitHub Changelog](https://github.blog/changelog/)
+
 #### Self-paced & curated
 - **Awesome Copilot — Learning Hub** — Structured learning paths for every level. [awesome-copilot.github.com/learning-hub](https://awesome-copilot.github.com/learning-hub/)
 - **Awesome Copilot (site)** — Community-curated index of prompts, instructions, chat modes, and extensions. [awesome-copilot.github.com](https://awesome-copilot.github.com/)
 - **Awesome Copilot (repo)** — Source repo for the above. [github.com/github/awesome-copilot](https://github.com/github/awesome-copilot)
-
-#### Hands-on
-- **GitHub Copilot Tutorials** — Official short-form tutorials by scenario and language. [docs.github.com/en/copilot/tutorials](https://docs.github.com/en/copilot/tutorials)
-- **GitHub Copilot Labs (Microsoft Learn)** — Step-by-step lab environment. [microsoftlearning.github.io/mslearn-github-copilot-dev](https://microsoftlearning.github.io/mslearn-github-copilot-dev/)
-
-#### Reference
-- **GitHub Documentation** — Full GitHub product documentation, including Copilot. [docs.github.com](https://docs.github.com/en)
-- **GitHub Changelog** — Authoritative source for everything that ships across GitHub and Copilot. [github.blog/changelog](https://github.blog/changelog/)
 
 #### Video
 - **GitHub Upskilling Playlists on YouTube** — Official GitHub channel with Copilot deep-dives, demos, and conference talks. [youtube.com/@GitHub/playlists](https://www.youtube.com/@GitHub/playlists)
@@ -51,8 +47,8 @@
 
 Resources about Copilot's move to usage-based billing.
 
-> **Start here: Copilot Cost Compass** — This is the primary tool to share
-> with customers beginning their usage-based billing journey.
+> **Start here: Copilot Cost Compass** — Use this as your starting point for
+> understanding the usage-based billing journey.
 > [Open Copilot Cost Compass](https://aka.ms/ubb-tool)
 
 - **🇨🇦 Canada team recommendations** — A practical playbook for preparing your organization (what's changing June 1, a 5-step rollout plan, what not to overreact to, and curated UBB resources including interactive tools and checklists). [usage-based-billing/](./usage-based-billing/)

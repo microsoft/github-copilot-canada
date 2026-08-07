@@ -4,8 +4,9 @@
 > move to usage-based billing on **June 1**. Maintained by the
 > **GitHub Copilot Canada team at Microsoft**.
 
-> **Recommended first resource: Copilot Cost Compass** — Share this tool with
-> customers as the starting point for the usage-based billing journey.
+> **Recommended first resource: Copilot Cost Compass** — Start here to
+> understand the usage-based billing journey and explore the recommended next
+> steps.
 > [Open Copilot Cost Compass](https://aka.ms/ubb-tool)
 
 For the broader list of UBB reference links (announcement blog, official
@@ -139,17 +140,18 @@ preparing their rollout:
 
 ### Webinars and workshops
 
-#### Upcoming customer webinars
+#### Previous customer webinars
 
-Live sessions for customers preparing for UBB. Register via the links below.
+These sessions have concluded. Visit the session pages below for any available
+recordings or follow-up resources.
 
 **Americas**
-- **GitHub Billing Platform Controls (run by XEBIA)** — May 28, 9:00 AM PT. [Register](https://events.xebia.com/microsoft/webinar-github-copilot-is-changing-may28)
+- **GitHub Billing Platform Controls (run by XEBIA)** — May 28, 9:00 AM PT. [Session page](https://events.xebia.com/microsoft/webinar-github-copilot-is-changing-may28)
 
 **APAC**
-- **Agent Quality & Token Optimization** — June 2, 4:00 PM – 5:00 PM KST. [Register](https://github.registration.goldcast.io/webinar/0b606bf5-7259-47c1-a13e-f6ae55e9bdb3)
-- **Agent Quality & Token Optimization** — June 5, 2:00 PM – 3:00 PM AEST / 12:00 PM SGT / 9:30 AM IST. [Register](https://github.registration.goldcast.io/webinar/0cc0d88d-52ea-4837-9fce-1da721aea31b)
-- **Agent Quality & Token Optimization** — June 16, 4:00 PM – 5:00 PM JST. [Register](https://github.registration.goldcast.io/webinar/04d8b78c-7149-48df-91a1-68029e126c4a)
+- **Agent Quality & Token Optimization** — June 2, 4:00 PM – 5:00 PM KST. [Session page](https://github.registration.goldcast.io/webinar/0b606bf5-7259-47c1-a13e-f6ae55e9bdb3)
+- **Agent Quality & Token Optimization** — June 5, 2:00 PM – 3:00 PM AEST / 12:00 PM SGT / 9:30 AM IST. [Session page](https://github.registration.goldcast.io/webinar/0cc0d88d-52ea-4837-9fce-1da721aea31b)
+- **Agent Quality & Token Optimization** — June 16, 4:00 PM – 5:00 PM JST. [Session page](https://github.registration.goldcast.io/webinar/04d8b78c-7149-48df-91a1-68029e126c4a)
 
 ---
 

@@ -6,6 +6,8 @@ Dev Days Canada is GitHub-centric and tool-agnostic. It brings together
 developers using GitHub Copilot, Claude Code, Cursor, Codex, and other tools
 that help them ship.
 
+![GitHub Copilot Dev Days Canada banner with a Canadian flag and GitHub mark](../images/dev-days-canada.png)
+
 > **Join Dev Days Canada** — See upcoming events and join the community.
 > [Open Dev Days Canada](https://aka.ms/ghcp-dev-days-canada)
 

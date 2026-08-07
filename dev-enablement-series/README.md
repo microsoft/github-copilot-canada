@@ -7,6 +7,8 @@ The Dev Enablement Series explores how AI is reshaping the software
 development lifecycle, accelerating delivery, improving code quality, and
 helping developers build with confidence.
 
+![Adventures in AI Coding banner with the words Plan. Code. Ship. Test and a GitHub Copilot character](../images/dev-enablement-series.png)
+
 [← Back to Canada Events](../README.md#-canada-events)
 
 ---

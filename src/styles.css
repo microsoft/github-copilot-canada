@@ -366,6 +366,15 @@ a {
   background: var(--bgColor-muted);
 }
 
+.page-dev-enablement-series .readme-content table th {
+  background: var(--bgColor-muted);
+}
+
+.page-dev-enablement-series .readme-content table td:first-child {
+  width: 22%;
+  white-space: nowrap;
+}
+
 .readme-content img {
   height: auto;
   border: var(--borderWidth-thin) solid var(--borderColor-muted);
@@ -584,6 +593,10 @@ a {
   .readme-content table {
     display: block;
     overflow-x: auto;
+  }
+
+  .page-dev-enablement-series .readme-content table td:first-child {
+    width: auto;
   }
 
   .site-footer {

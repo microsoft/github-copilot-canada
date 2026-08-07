@@ -17,6 +17,8 @@ assignees: []
 Pick the README section you think fits best (or suggest a new one):
 
 - [ ] Canada Events
+- [ ] Dev Days Canada
+- [ ] Dev Enablement Series
 - [ ] Learning & Skilling
 - [ ] Usage-Based Billing
 - [ ] Governance & Architecture

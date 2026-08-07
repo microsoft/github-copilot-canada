@@ -22,10 +22,10 @@ This is a static, README-driven React site deployed to GitHub Pages.
 - `DESIGN.md` is the project-specific visual contract. Read it before changing
   UI, CSS, layout, responsive behavior, or visual components. It is normative
   unless it conflicts with a Primer component API or accessibility guidance.
-- The canonical page content lives in `README.md` and
-  `usage-based-billing/README.md`. Keep both useful when viewed directly on
-  GitHub; the Pages site enhances the same content rather than maintaining a
-  separate copy.
+- The canonical page content lives in `README.md`, `dev-days/README.md`,
+  `dev-enablement-series/README.md`, and `usage-based-billing/README.md`. Keep
+  all four useful when viewed directly on GitHub; the Pages site enhances the
+  same content rather than maintaining a separate copy.
 - `src/content.ts` imports those READMEs with Vite's `?raw` loader and is the
   central registry for page IDs, routes, labels, descriptions, source paths,
   and table-of-contents extraction.

@@ -10,6 +10,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         home: resolve(process.cwd(), 'index.html'),
+        devDays: resolve(process.cwd(), 'dev-days/index.html'),
+        devEnablementSeries: resolve(process.cwd(), 'dev-enablement-series/index.html'),
         usageBasedBilling: resolve(process.cwd(), 'usage-based-billing/index.html'),
       },
       output: {

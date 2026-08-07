@@ -19,8 +19,8 @@
 
 ## 📅 Canada Events
 
-- **GitHub Copilot Dev Days Canada 🇨🇦** — Microsoft and GitHub's Canada-focused Copilot developer event series - in person local events! [aka.ms/ghcp-dev-days-canada](https://aka.ms/ghcp-dev-days-canada)
-- **AI Coding with GitHub Copilot — Development Enablement Series** — Multi-part series for Canadian engineering teams covering prompt patterns, chat modes, agentic workflows, code review, and team-scale adoption. [aka.ms/ghcp-dev-enablement-series](https://aka.ms/ghcp-dev-enablement-series)
+- **Dev Days Canada 🇨🇦** — A GitHub-centric, tool-agnostic community and in-person event series for builders. [Open Dev Days Canada](./dev-days/)
+- **Dev Enablement Series** — Practical sessions for Canadian engineering teams covering Copilot, agentic workflows, DevOps, security, and team-scale adoption. [Browse previous topics](./dev-enablement-series/)
 - **Apply for workshops, office hours & invite-only events** — Get on the GHCP Canada team's invite list. [aka.ms/ghcp-canada-events-form](https://aka.ms/ghcp-canada-events-form)
 
 
@@ -51,6 +51,10 @@
 
 Resources about Copilot's move to usage-based billing.
 
+> **Start here: Copilot Cost Compass** — This is the primary tool to share
+> with customers beginning their usage-based billing journey.
+> [Open Copilot Cost Compass](https://aka.ms/ubb-tool)
+
 - **🇨🇦 Canada team recommendations** — A practical playbook for preparing your organization (what's changing June 1, a 5-step rollout plan, what not to overreact to, and curated UBB resources including interactive tools and checklists). [usage-based-billing/](./usage-based-billing/)
 - **Announcement (blog)** — GitHub Copilot is moving to usage-based billing. [github.blog](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
 - **Copilot Billing Preview Sidecar app (video)** — Walkthrough of the in-product billing preview. *Requires Microsoft 365 sign-in.* [SharePoint](https://microsoft.sharepoint.com/:v:/t/GithubSales/cQpdyZPg51mUQ7iLkqEsrO7pEgUCj1S9x-0AVt-DMqzr4c7NFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=)
@@ -65,6 +69,15 @@ Resources about Copilot's move to usage-based billing.
 
 - **Agentic Governance (Microsoft APM)** — Microsoft's framework for governing teams of AI agents at enterprise scale. [docs](https://microsoft.github.io/apm/) · [repo](https://github.com/microsoft/apm)
 - **GitHub Well-Architected Framework** — GitHub's official guidance for well-architected systems on the GitHub platform, including Copilot. [wellarchitected.github.com](https://wellarchitected.github.com/)
+
+---
+
+## Fantastic 4
+
+The **Fantastic 4** are Microsoft's GitHub Acceleration team:
+**Chris Gagne, Mehdi Labadi, Ricardo Covo, and Ve Sharma**.
+
+![Portraits of Microsoft GitHub Acceleration team members Chris Gagne, Mehdi Labadi, Ricardo Covo, and Ve Sharma](./images/fantastic-four.png)
 
 ---
 

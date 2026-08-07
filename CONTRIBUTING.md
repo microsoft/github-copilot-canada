@@ -50,9 +50,10 @@ to this hub.
 
 ## Preview the GitHub Pages site
 
-The site renders `README.md` and `usage-based-billing/README.md` directly, so
-content changes stay synchronized between the repository and GitHub Pages.
-Use Node.js 22 to run it locally:
+The site renders `README.md`, `dev-days/README.md`,
+`dev-enablement-series/README.md`, and `usage-based-billing/README.md`
+directly, so content changes stay synchronized between the repository and
+GitHub Pages. Use Node.js 22 to run it locally:
 
 ```bash
 npm ci

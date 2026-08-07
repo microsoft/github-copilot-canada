@@ -1,8 +1,10 @@
 import GithubSlugger from 'github-slugger'
+import devDaysReadme from '../dev-days/README.md?raw'
+import devEnablementSeriesReadme from '../dev-enablement-series/README.md?raw'
 import rootReadme from '../README.md?raw'
 import usageBasedBillingReadme from '../usage-based-billing/README.md?raw'
 
-export const pageIds = ['home', 'usage-based-billing'] as const
+export const pageIds = ['home', 'dev-days', 'dev-enablement-series', 'usage-based-billing'] as const
 export type PageId = (typeof pageIds)[number]
 
 export type PageContent = {
@@ -29,6 +31,24 @@ export const pages: Record<PageId, PageContent> = {
     description: 'Events, learning, billing, and governance for Canada.',
     markdown: rootReadme,
     sourcePath: 'README.md',
+  },
+  'dev-days': {
+    id: 'dev-days',
+    route: 'dev-days',
+    label: 'Dev Days Canada',
+    eyebrow: 'Community events',
+    description: 'GitHub-centric, tool-agnostic events for Canadian builders.',
+    markdown: devDaysReadme,
+    sourcePath: 'dev-days/README.md',
+  },
+  'dev-enablement-series': {
+    id: 'dev-enablement-series',
+    route: 'dev-enablement-series',
+    label: 'Dev Enablement Series',
+    eyebrow: 'Developer learning series',
+    description: 'Practical sessions on Copilot, DevOps, security, and agentic workflows.',
+    markdown: devEnablementSeriesReadme,
+    sourcePath: 'dev-enablement-series/README.md',
   },
   'usage-based-billing': {
     id: 'usage-based-billing',

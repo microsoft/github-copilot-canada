@@ -4,6 +4,10 @@
 > move to usage-based billing on **June 1**. Maintained by the
 > **GitHub Copilot Canada team at Microsoft**.
 
+> **Recommended first resource: Copilot Cost Compass** — Share this tool with
+> customers as the starting point for the usage-based billing journey.
+> [Open Copilot Cost Compass](https://aka.ms/ubb-tool)
+
 For the broader list of UBB reference links (announcement blog, official
 documentation, pricing reference, code review changelog, billing preview
 sidecar video), see the

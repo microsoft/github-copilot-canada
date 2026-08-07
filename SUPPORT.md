@@ -4,7 +4,7 @@
 
 This project uses **GitHub Issues** to track broken links, suggest new
 resources, and surface improvements to the hub. Please search the
-[existing issues](https://github.com/microsoft/github-copilot-canada/issues)
+[existing issues](https://github.com/microsoft/github-canada/issues)
 before filing a new one to avoid duplicates.
 
 - 🔗 **Suggest a new resource** — use the *Suggest a resource* issue template.
@@ -13,12 +13,13 @@ before filing a new one to avoid duplicates.
   event, tutorial, or playbook) — please reach out to the resource's owner
   directly. This hub curates links; it does not own the underlying content.
 
-## Getting help with GitHub Copilot
+## Getting help with GitHub or GitHub Copilot
 
-This repository does **not** provide product support for GitHub Copilot itself.
-For Copilot product issues:
+This repository does **not** provide product support for GitHub or GitHub
+Copilot. For product issues:
 
-- **Documentation:** <https://docs.github.com/en/copilot>
+- **GitHub documentation:** <https://docs.github.com/>
+- **GitHub Copilot documentation:** <https://docs.github.com/en/copilot>
 - **GitHub Support:** <https://support.github.com/>
 - **GitHub Community:** <https://github.com/orgs/community/discussions>
 - **Status:** <https://www.githubstatus.com/>

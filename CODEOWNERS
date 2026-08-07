@@ -1,4 +1,4 @@
-# CODEOWNERS for microsoft/github-copilot-canada
+# CODEOWNERS for microsoft/github-canada
 #
 # Each line is a file pattern followed by one or more owners. The last
 # matching pattern wins. See:
@@ -9,4 +9,4 @@
 # replace the placeholder team handle below once the team handle is final.
 
 # Default owners for everything in the repo
-# *       @microsoft/ghcp-canada-maintainers
+# *       @microsoft/github-canada-maintainers

@@ -1,7 +1,7 @@
 ---
 version: "alpha"
 name: "GitHub @ Canada Primer"
-description: "A focused, content-first GitHub Copilot Canada resource hub built with Primer."
+description: "A focused, content-first GitHub @ Canada resource hub built with Primer."
 colors:
   primary: "#0969DA"
   on-primary: "#FFFFFF"

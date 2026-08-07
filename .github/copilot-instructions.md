@@ -28,10 +28,15 @@ This is a static, README-driven React site deployed to GitHub Pages.
   same content rather than maintaining a separate copy.
 - `src/content.ts` imports those READMEs with Vite's `?raw` loader and is the
   central registry for page IDs, routes, labels, descriptions, source paths,
-  and table-of-contents extraction.
+  and table-of-contents extraction. Its TOC parser excludes fenced code blocks
+  and advances `github-slugger` for every ATX heading while emitting only
+  level-two headings; preserve that behavior so TOC links stay aligned with
+  `rehype-slug`, including duplicate headings.
 - Each public route has its own HTML entry point. Its `<body>` supplies
   `data-page` and `data-site-root`; `src/App.tsx` uses those values to select
-  content and construct project-relative URLs.
+  content and construct project-relative URLs. This is a static multi-entry
+  site, not a client-side router: navigation loads the corresponding generated
+  HTML entry.
 - `vite.config.ts` declares every HTML entry under
   `build.rollupOptions.input`. `base: './'` is required so assets resolve
   under the `/github-copilot-canada/` GitHub Pages project path.
@@ -53,7 +58,8 @@ When adding a top-level page, update all coupled surfaces in the same change:
 3. Add the HTML entry to `vite.config.ts`.
 4. Add the page to `navigationItems` and, if needed, internal route matching
    in `src/App.tsx`.
-5. Build and confirm the expected `dist/<route>/index.html` exists.
+5. Update the canonical README list in this file and `CONTRIBUTING.md`.
+6. Build and confirm the expected `dist/<route>/index.html` exists.
 
 Page HTML files should keep route-specific titles and descriptions, use
 `data-site-root="../"` for nested pages, and reference `../favicon.svg`.
@@ -75,10 +81,14 @@ Page HTML files should keep route-specific titles and descriptions, use
   Pages deep links, and generated TOCs agree.
 - Repository-relative `.md` links are normalized to GitHub source links;
   links to dedicated Pages routes are normalized to site-relative URLs.
-  Update `normalizeHref` when introducing a new top-level route.
+  Update `normalizeHref` when introducing a new top-level route. Root README
+  links use `./<route>/`; nested README back links use
+  `../README.md#<section>`, which the shell maps back to the Pages root.
 - Put local content images under `images/` and reference them relatively from
-  Markdown. `import.meta.glob` in `src/App.tsx` bundles those images for Pages.
-  Do not edit generated files in `dist/`.
+  Markdown (`./images/...` from the root README and `../images/...` from nested
+  READMEs). `import.meta.glob` and `MarkdownImage` in `src/App.tsx` normalize
+  and bundle both forms for Pages. Preserve descriptive alt text and natural
+  aspect ratios. Do not edit generated files in `dist/`.
 
 ## UI conventions
 
@@ -110,7 +120,8 @@ Page HTML files should keep route-specific titles and descriptions, use
   `npm ci`.
 - Run `npm run design:lint` whenever `DESIGN.md` changes.
 - Run `npm run build` before completing any code, route, dependency, or
-  workflow change.
+  workflow change. The current build must emit the root entry plus
+  `dev-days/`, `dev-enablement-series/`, and `usage-based-billing/`.
 - For content-only changes, verify relative links, heading anchors, image
   paths, and any access labels affected by the edit.
 - Do not hand-edit or commit `dist/`; GitHub Actions generates and deploys it.

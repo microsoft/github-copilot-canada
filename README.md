@@ -1,5 +1,6 @@
 <div align="center">
 <img width="474" height="138" alt="ms+gh" src="https://github.com/user-attachments/assets/fcd7622d-50bd-4080-8361-27add0d3e650" />
+</div>
 
 # 🇨🇦 GitHub Copilot Canada
 
@@ -14,15 +15,12 @@
 |---|---|---|
 | Events & customer stories → [Canada Events](#-canada-events) | Tutorials, labs & changelog → [Learning & Skilling](#-learning--skilling) | Architecture & governance → [Governance & Architecture](#-governance--architecture) |
 
-
-
-</div>
 ---
 
 ## 📅 Canada Events
 
-- **GitHub Copilot Dev Days Canada 🇨🇦** — Microsoft and GitHub's Canada-focused Copilot developer event series - in person local events! [aka.ms/ghcp-dev-days-canada](https://aka.ms/ghcp-dev-days-canada)
-- **AI Coding with GitHub Copilot — Development Enablement Series** — Multi-part series for Canadian engineering teams covering prompt patterns, chat modes, agentic workflows, code review, and team-scale adoption. [aka.ms/ghcp-dev-enablement-series](https://aka.ms/ghcp-dev-enablement-series)
+- **Dev Days Canada 🇨🇦** — A GitHub-centric, tool-agnostic community and in-person event series for builders. [Open Dev Days Canada](./dev-days/)
+- **Dev Enablement Series** — Practical sessions for Canadian engineering teams covering Copilot, agentic workflows, DevOps, security, and team-scale adoption. [Browse previous topics](./dev-enablement-series/)
 - **Apply for workshops, office hours & invite-only events** — Get on the GHCP Canada team's invite list. [aka.ms/ghcp-canada-events-form](https://aka.ms/ghcp-canada-events-form)
 
 
@@ -31,18 +29,14 @@
 
 ## 📚 Learning & Skilling
 
+- **GitHub Changelog** — See how much and how fast we're shipping at GitHub,
+  including the latest Copilot improvements.
+  [Follow the GitHub Changelog](https://github.blog/changelog/)
+
 #### Self-paced & curated
 - **Awesome Copilot — Learning Hub** — Structured learning paths for every level. [awesome-copilot.github.com/learning-hub](https://awesome-copilot.github.com/learning-hub/)
 - **Awesome Copilot (site)** — Community-curated index of prompts, instructions, chat modes, and extensions. [awesome-copilot.github.com](https://awesome-copilot.github.com/)
 - **Awesome Copilot (repo)** — Source repo for the above. [github.com/github/awesome-copilot](https://github.com/github/awesome-copilot)
-
-#### Hands-on
-- **GitHub Copilot Tutorials** — Official short-form tutorials by scenario and language. [docs.github.com/en/copilot/tutorials](https://docs.github.com/en/copilot/tutorials)
-- **GitHub Copilot Labs (Microsoft Learn)** — Step-by-step lab environment. [microsoftlearning.github.io/mslearn-github-copilot-dev](https://microsoftlearning.github.io/mslearn-github-copilot-dev/)
-
-#### Reference
-- **GitHub Documentation** — Full GitHub product documentation, including Copilot. [docs.github.com](https://docs.github.com/en)
-- **GitHub Changelog** — Authoritative source for everything that ships across GitHub and Copilot. [github.blog/changelog](https://github.blog/changelog/)
 
 #### Video
 - **GitHub Upskilling Playlists on YouTube** — Official GitHub channel with Copilot deep-dives, demos, and conference talks. [youtube.com/@GitHub/playlists](https://www.youtube.com/@GitHub/playlists)
@@ -52,6 +46,10 @@
 ## 💳 Usage-Based Billing (UBB)
 
 Resources about Copilot's move to usage-based billing.
+
+> **Start here: Copilot Cost Compass** — Use this as your starting point for
+> understanding the usage-based billing journey.
+> [Open Copilot Cost Compass](https://aka.ms/ubb-tool)
 
 - **🇨🇦 Canada team recommendations** — A practical playbook for preparing your organization (what's changing June 1, a 5-step rollout plan, what not to overreact to, and curated UBB resources including interactive tools and checklists). [usage-based-billing/](./usage-based-billing/)
 - **Announcement (blog)** — GitHub Copilot is moving to usage-based billing. [github.blog](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
@@ -67,6 +65,15 @@ Resources about Copilot's move to usage-based billing.
 
 - **Agentic Governance (Microsoft APM)** — Microsoft's framework for governing teams of AI agents at enterprise scale. [docs](https://microsoft.github.io/apm/) · [repo](https://github.com/microsoft/apm)
 - **GitHub Well-Architected Framework** — GitHub's official guidance for well-architected systems on the GitHub platform, including Copilot. [wellarchitected.github.com](https://wellarchitected.github.com/)
+
+---
+
+## Fantastic 4
+
+The **Fantastic 4** are Microsoft's GitHub Acceleration team:
+**Chris Gagne, Mehdi Labadi, Ricardo Covo, and Ve Sharma**.
+
+![Portraits of Microsoft GitHub Acceleration team members Chris Gagne, Mehdi Labadi, Ricardo Covo, and Ve Sharma](./images/fantastic-four.png)
 
 ---
 

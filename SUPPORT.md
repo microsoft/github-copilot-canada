@@ -23,15 +23,16 @@ For Copilot product issues:
 - **GitHub Community:** <https://github.com/orgs/community/discussions>
 - **Status:** <https://www.githubstatus.com/>
 
-## Engaging the GitHub Copilot Canada team
+## Engaging the GitHub @ Canada team at Microsoft
 
-The team will publish a direct engagement channel (email alias / Teams channel)
-in this file as soon as one is finalized. In the meantime, please open an
-issue on this repository or reach out through your existing Microsoft account
-team.
+For questions, partnership requests, or to get on the invite list for events,
+email
+[GitHubCopilotCanada@microsoft.com](mailto:GitHubCopilotCanada@microsoft.com).
+
+You can also reach out through your existing Microsoft account team — they
+can route you to the GitHub @ Canada team directly.
 
 ## Microsoft Support Policy
 
 Support for this hub is limited to the resources listed above. The hub itself
-is maintained by the GitHub Copilot Canada team at Microsoft on a best-effort
-basis.
+is maintained by the GitHub @ Canada team at Microsoft on a best-effort basis.

@@ -26,8 +26,9 @@ $RECYCLE.BIN/
 /drafts/
 *.local.md
 
-# Node (in case anyone adds tooling later, e.g. link checker)
+# Node / site build
 node_modules/
+dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

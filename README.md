@@ -20,7 +20,7 @@
 ## 📅 Canada Events
 
 - **Dev Days Canada 🇨🇦** — A GitHub-centric, tool-agnostic community and in-person event series for builders. [Open Dev Days Canada](./dev-days/)
-- **Dev Enablement Series** — Practical sessions for Canadian engineering teams covering Copilot, agentic workflows, DevOps, security, and team-scale adoption. [Browse previous topics](./dev-enablement-series/)
+- **Dev Enablement Series** — Season 2 live webinars on Copilot, agent-native engineering, MCP, and agentic workflows. [View the schedule and register](./dev-enablement-series/)
 - **Apply for workshops, office hours & invite-only events** — Get on the GHCP Canada team's invite list. [aka.ms/ghcp-canada-events-form](https://aka.ms/ghcp-canada-events-form)
 
 

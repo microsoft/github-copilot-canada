@@ -96,7 +96,7 @@ const navigationItems: Array<{
   {id: 'dev-days', description: 'Community events for builders', icon: CalendarIcon},
   {
     id: 'dev-enablement-series',
-    description: 'Previous sessions and topics',
+    description: 'Season 2 webinars and registration',
     icon: VideoIcon,
   },
   {id: 'usage-based-billing', description: 'Copilot UBB playbook', icon: CreditCardIcon},

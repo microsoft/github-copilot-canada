@@ -46,7 +46,7 @@ export const pages: Record<PageId, PageContent> = {
     route: 'dev-enablement-series',
     label: 'Dev Enablement Series',
     eyebrow: 'Developer learning series',
-    description: 'Practical sessions on Copilot, DevOps, security, and agentic workflows.',
+    description: 'Season 2 webinars on Copilot, agent-native engineering, MCP, and agentic workflows.',
     markdown: devEnablementSeriesReadme,
     sourcePath: 'dev-enablement-series/README.md',
   },

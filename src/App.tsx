@@ -45,8 +45,35 @@ const markdownSchema = {
   ...defaultSchema,
   attributes: {
     ...defaultSchema.attributes,
+    a: [
+      ['className', 'data-footnote-backref', 'team-card-link'],
+      ...(defaultSchema.attributes?.a ?? []),
+    ],
     div: [...(defaultSchema.attributes?.div ?? []), 'align'],
-    img: [...(defaultSchema.attributes?.img ?? []), 'width', 'height'],
+    img: [
+      ['className', 'team-portrait'],
+      ...(defaultSchema.attributes?.img ?? []),
+      'width',
+      'height',
+    ],
+    li: [
+      ['className', 'task-list-item', 'team-card'],
+      ...(defaultSchema.attributes?.li ?? []),
+    ],
+    span: [
+      ['className', 'team-card-copy', 'team-role'],
+      ...(defaultSchema.attributes?.span ?? []),
+    ],
+    ul: [
+      [
+        'className',
+        'contains-task-list',
+        'team-grid',
+        'team-grid-github',
+        'team-grid-microsoft',
+      ],
+      ...(defaultSchema.attributes?.ul ?? []),
+    ],
   },
 }
 

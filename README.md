@@ -68,12 +68,85 @@ Resources about Copilot's move to usage-based billing.
 
 ---
 
-## Fantastic 4
+## Meet the GitHub @ Canada teams
 
-The **Fantastic 4** are Microsoft's GitHub Acceleration team:
-**Chris Gagne, Mehdi Labadi, Ricardo Covo, and Ve Sharma**.
+GitHub's Canadian Hubbers and Microsoft's GitHub Acceleration specialists work
+together to help Canadian organizations adopt GitHub and GitHub Copilot.
 
-![Portraits of Microsoft GitHub Acceleration team members Chris Gagne, Mehdi Labadi, Ricardo Covo, and Ve Sharma](./images/fantastic-four.png)
+### GitHub Canada Solutions Engineering
+
+Meet the official Canadian Hubbers on GitHub's Solutions Engineering team.
+
+<ul class="team-grid team-grid-github">
+  <li class="team-card">
+    <a class="team-card-link" href="https://www.linkedin.com/in/jackgkafaty/">
+      <img class="team-portrait" src="./images/team/jack-kafaty-abudoj.png" alt="Portrait of Jack Kafaty Abudoj" width="72" height="72">
+      <span class="team-card-copy">
+        <strong>Jack Kafaty Abudoj</strong>
+        <span class="team-role">Senior Solutions Engineer</span>
+        <span>LinkedIn profile</span>
+      </span>
+    </a>
+  </li>
+  <li class="team-card">
+    <a class="team-card-link" href="https://www.linkedin.com/in/raymondkao/">
+      <img class="team-portrait" src="./images/team/ray-kao.png" alt="Portrait of Ray Kao" width="72" height="72">
+      <span class="team-card-copy">
+        <strong>Ray Kao</strong>
+        <span class="team-role">Strategic Solutions Engineer</span>
+        <span>LinkedIn profile</span>
+      </span>
+    </a>
+  </li>
+</ul>
+
+### Microsoft GitHub Acceleration — Fantastic 4
+
+The **Fantastic 4** are Microsoft's GitHub Acceleration team supporting
+customers across Canada.
+
+<ul class="team-grid team-grid-microsoft">
+  <li class="team-card">
+    <a class="team-card-link" href="https://www.linkedin.com/in/chris-gagne/">
+      <img class="team-portrait" src="./images/team/chris-gagne.png" alt="Portrait of Chris Gagne" width="72" height="72">
+      <span class="team-card-copy">
+        <strong>Chris Gagne</strong>
+        <span class="team-role">Senior Solution Engineer</span>
+        <span>LinkedIn profile</span>
+      </span>
+    </a>
+  </li>
+  <li class="team-card">
+    <a class="team-card-link" href="https://www.linkedin.com/in/mehdilabadi/">
+      <img class="team-portrait" src="./images/team/mehdi-labadi.png" alt="Portrait of Mehdi Labadi" width="72" height="72">
+      <span class="team-card-copy">
+        <strong>Mehdi Labadi</strong>
+        <span class="team-role">Solution Expert, Cloud &amp; AI</span>
+        <span>LinkedIn profile</span>
+      </span>
+    </a>
+  </li>
+  <li class="team-card">
+    <a class="team-card-link" href="https://www.linkedin.com/in/ricardocovo/">
+      <img class="team-portrait" src="./images/team/riccardo-covo.png" alt="Portrait of Riccardo Covo" width="72" height="72">
+      <span class="team-card-copy">
+        <strong>Riccardo Covo</strong>
+        <span class="team-role">Solution Engineer — Cloud &amp; AI Software</span>
+        <span>LinkedIn profile</span>
+      </span>
+    </a>
+  </li>
+  <li class="team-card">
+    <a class="team-card-link" href="https://www.linkedin.com/in/vevarunsharma/">
+      <img class="team-portrait" src="./images/team/ve-sharma.png" alt="Portrait of Ve Sharma" width="72" height="72">
+      <span class="team-card-copy">
+        <strong>Ve Sharma</strong>
+        <span class="team-role">Solution Engineer — Cloud &amp; AI Software</span>
+        <span>LinkedIn profile</span>
+      </span>
+    </a>
+  </li>
+</ul>
 
 ---
 
